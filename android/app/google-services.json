@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "460344479734",
+    "firebase_url": "https://new-etwelve-database-default-rtdb.firebaseio.com",
+    "project_id": "new-etwelve-database",
+    "storage_bucket": "new-etwelve-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460344479734:android:b34bb5488a4d709cc641d7",
+        "android_client_info": {
+          "package_name": "com.etwelve.findlessons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460344479734-7968mklf5j47ql7h0ka113v94vgss8ks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.etwelve.findlessons",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "460344479734-trg60trfqumhktv7110htbbv23i1k10r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ZEj9AfKGjiI_GgwQEa1ddnmIiKsTUnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460344479734-trg60trfqumhktv7110htbbv23i1k10r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460344479734-4457tp6ifln3gg8ajmck4ghjo15sr0p5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.etwelve.findlessons"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460344479734:android:718ba3d05419e3ffc641d7",
+        "android_client_info": {
+          "package_name": "com.etwelve.findpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460344479734-27l3aevtdpjr4s5u6aluhjv2ua481g43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.etwelve.findpapers",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "460344479734-trg60trfqumhktv7110htbbv23i1k10r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ZEj9AfKGjiI_GgwQEa1ddnmIiKsTUnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460344479734-trg60trfqumhktv7110htbbv23i1k10r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460344479734-4457tp6ifln3gg8ajmck4ghjo15sr0p5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.etwelve.findlessons"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460344479734:android:a6ff325b7b253c64c641d7",
+        "android_client_info": {
+          "package_name": "com.etwelve.supadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460344479734-mvtnu37sp66tt92u2bernt0qhc3njq0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.etwelve.supadmin",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "460344479734-trg60trfqumhktv7110htbbv23i1k10r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ZEj9AfKGjiI_GgwQEa1ddnmIiKsTUnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460344479734-trg60trfqumhktv7110htbbv23i1k10r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460344479734-4457tp6ifln3gg8ajmck4ghjo15sr0p5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.etwelve.findlessons"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460344479734:android:8f6195bdbaf97fa0c641d7",
+        "android_client_info": {
+          "package_name": "com.etwelve.website"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460344479734-fvm6mdlqgq5hakhjaic0602v70fi4a9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.etwelve.website",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "460344479734-trg60trfqumhktv7110htbbv23i1k10r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ZEj9AfKGjiI_GgwQEa1ddnmIiKsTUnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460344479734-trg60trfqumhktv7110htbbv23i1k10r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460344479734-4457tp6ifln3gg8ajmck4ghjo15sr0p5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.etwelve.findlessons"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
